@@ -8,7 +8,7 @@
     "48": "icon48.png",
     "128": "icon128.png"
   },
-  "browser_action":{
+  "action":{
     "default_icon": {
       "19": "icon19.png"
     },
@@ -20,5 +20,5 @@
     "tabs",
     "clipboardWrite"
   ],
-  "manifest_version": 2
+  "manifest_version": 3
 }
