@@ -1,3 +1,25 @@
+# Google Spread SheetへのPOST機能を追加（ryjkmr）
+
+取得したタブのタイトルとURLをGoogle Spread Sheetに保存できるようにしました。
+
+
+使用するには
+
+code.jsをGoogle Spread　Sheetのコンテナバインドスクリプトとして登録、Web APPとしてデプロイします。
+
+srcフォルダ内にjqueryファイルが必要です。
+
+以下、オリジナルのREADME
+
+
+
+
+
+
+
+___
+
+
 # getTitleAndURLofALLTabs
  開いているウインドウ内のすべてのタブのタイトルとURLを取得するGoogleChrome拡張機能です。
  
